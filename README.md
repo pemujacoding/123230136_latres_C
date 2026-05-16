@@ -1,6 +1,8 @@
 # 123230136_latres_C
 
-## Susunan Folder
+**Susunan Folder**
+
+```text
 .
 └── lib/
     ├── controllers/
